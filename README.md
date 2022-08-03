@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Developing
 - 🌱 I’m currently learning Programming and Developing
 - 💞️ I’m looking to collaborate on everything that I am capable of!
-- 📫 How to reach me: Istagram: https://www.instagram.com/miiguellssantos/
+- 📫 How to reach me: Istagram: https://www.instagram.com/miiguelssantos/
                       Twitter: https://twitter.com/odevmiguel
                 
 

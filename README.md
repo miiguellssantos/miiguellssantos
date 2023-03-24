@@ -1,9 +1,5 @@
   ## print("Hello World!")
-  
-  <div>                    
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=miiguellssantos&theme=gotham&show_icons=true&include_all_commits=true&count_private=true">
-    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiguellssantos&layout=compact&theme=gotham">
-  </div>              
+              
 
   <div style="display:inline-block">
   	<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

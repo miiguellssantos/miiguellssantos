@@ -1,6 +1,6 @@
   ## print("Hello World!")
               
-  ![Miguel Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiguellssantos&show_icons=true&theme=transparent)
+  ![Miguel Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiguellssantos&show_icons=true&theme=transparent)<br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiguellssantos&theme=transparent&layout=compact)
  
   <div style="display:inline-block"><br>

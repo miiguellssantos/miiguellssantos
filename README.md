@@ -4,7 +4,7 @@
 public class Miguel {
   private String name = 'Miguel Santos';
   private Location location = new Location("Brazil", "São Carlos", "SP");
-  private int age = 17;
+  private int age = 18;
 }
 ```
  

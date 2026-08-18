@@ -40,17 +40,15 @@ public class Miguel {
   <a href="https://www.twitter.com/odevmiguel" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
 --->
-
-<!---
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miiguellssantos&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miiguellssantos&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miiguellssantos&theme=radical) |
-  | :-: | :-: | :-: |
-
-  || ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miiguellssantos&theme=radical) ||
+    
+   <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miiguellssantos&theme=github_dark" width="31%" alt="GitHub Stats"> &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miiguellssantos&hide=Html&theme=github_dark" width="31%" alt="Top Languages by Repo"> &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miiguellssantos&theme=github_dark" width="31%" alt="Top Languages by Commit">
+</div>
+  <br>
   
-  | :-: | :-: | :-: |
-  
-  --->
+ 
 
   ![](./profile-3d-contrib/profile-night-green.svg)
 

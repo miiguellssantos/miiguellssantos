@@ -3,22 +3,21 @@
   ```java
 public class Miguel {
   private String name = 'Miguel Santos';
-  private Location location = new Location("Brazil", "São Carlos", "SP");
-  private int age = 19;
+  private Location location = new Location("Brazil", "Macaé", "RJ");
+  private int age = 20;
 }
 ```
  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Miguel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Miguel-Php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    <img align="center" alt="Miguel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    
-  
+  <div align="center">
+    <br>
+    <img align="center" alt="Miguel-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+    <img align="center" alt="Miguel-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
+    <img align="center" alt="Miguel-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;
+    <img align="center" alt="Miguel-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+    <img align="center" alt="Miguel-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+    <img align="center" alt="Miguel-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+  <br>
  
  
  <!--- 
@@ -42,13 +41,19 @@ public class Miguel {
   </div>
 --->
 
+<!---
+
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miiguellssantos&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miiguellssantos&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miiguellssantos&theme=radical) |
   | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miiguellssantos&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=miiguellssantos&theme=radical&date_format=j%2Fn%5B%2FY%5D&type=png)](https://git.io/streak-stats) |
-| :-: | :-: |
+  || ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miiguellssantos&theme=radical) ||
+  
+  | :-: | :-: | :-: |
+  
+  --->
 
   ![](./profile-3d-contrib/profile-night-green.svg)
+
 
 <!---
 miiguellssantos/miiguellssantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
